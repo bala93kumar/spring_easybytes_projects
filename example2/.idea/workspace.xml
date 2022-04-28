@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4c5ce24-4a16-4cde-8435-983a74f820bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../example1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/balakumar/beans/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/balakumar/config/PropertiesConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/balakumar/main/Example2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example1/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../example1/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../example1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../example1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example1/src/main/java/com/balakumar/beans/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../example1/src/main/java/com/balakumar/beans/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example1/src/main/java/com/balakumar/config/propertisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../example1/src/main/java/com/balakumar/config/propertisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example1/src/main/java/com/balakumar/main/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/../example1/src/main/java/com/balakumar/main/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example1/target/classes/com/balakumar/config/propertisConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../example1/target/classes/com/balakumar/config/propertisConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example1/target/classes/com/balakumar/main/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/../example1/target/classes/com/balakumar/main/Example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/pom.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28MOBjXNtZPGeJqrHzXcq0nSwKt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.balakumar.main.Example2" />
+      <module name="example2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.balakumar.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Example2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4c5ce24-4a16-4cde-8435-983a74f820bf" name="Changes" comment="" />
+      <created>1651022857393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651022857393</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

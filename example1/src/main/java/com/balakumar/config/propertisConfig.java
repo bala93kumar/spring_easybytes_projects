@@ -2,7 +2,9 @@ package com.balakumar.config;
 
 import com.balakumar.beans.Vehicle;
 import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Primary;
 
 @Configuration
 public class propertisConfig {
@@ -18,6 +20,7 @@ public class propertisConfig {
 
     }
 
+    @Primary
     @Bean(value="bala")
 
     Vehicle vehicl1()  {

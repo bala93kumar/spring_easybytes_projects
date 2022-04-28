@@ -26,7 +26,10 @@ public class Example {
         Vehicle vehBala =   context.getBean("bala",  Vehicle.class);
         System.out.println("value is from beam app " + vehBala.getName());
 
+        // with using primary annotation and making bala vehicle to print by default
 
+        Vehicle vehpri  = context.getBean(Vehicle.class);
+        System.out.println("value with primary : " + vehpri.getName());
 
     }
 }

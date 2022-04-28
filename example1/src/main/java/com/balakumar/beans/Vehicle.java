@@ -1,7 +1,8 @@
 package com.balakumar.beans;
 
-public class Vehicle {
+import org.springframework.stereotype.Component;
 
+public class Vehicle {
      private String name;
 
 
