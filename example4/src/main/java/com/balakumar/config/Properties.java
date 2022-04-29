@@ -7,17 +7,19 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
+@ComponentScan(basePackages = "com.balakumar.beans")
+
 public class Properties {
 
 
-@Bean
-    public  Vehicle veh () {
-
-    Vehicle veh = new Vehicle();
-    veh.setName("audi");
-    return veh ;
-
-}
+//@Bean
+//    public  Vehicle veh () {
+//
+//    Vehicle veh = new Vehicle();
+//    veh.setName("audi");
+//    return veh ;
+//
+//}
 
 
 //autowiring using manual approach
@@ -35,17 +37,17 @@ public class Properties {
 
 
 //    autowiring using method parameter
-@Bean
-public Person person(Vehicle vehicle) {
+//@Bean
+//public Person person(Vehicle vehicle) {
+//
+//    Person per = new Person();
+//    per.setName("bala");
+//    per.setVehicle(vehicle);
+//    return per;
 
-    Person per = new Person();
-    per.setName("bala");
-    per.setVehicle(vehicle);
-    return per;
 
 
-
-}
+//}
 
 
 

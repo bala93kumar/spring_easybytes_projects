@@ -1,12 +1,16 @@
 package com.balakumar.beans;
 
+
+import org.springframework.stereotype.Component;
+
+@Component
 public class Vehicle {
 
     public Vehicle() {
 
         System.out.println("printing from Vehicle class");
     }
-    private String name;
+    private String name="bmw";
 
     public String getName() {
         return name;

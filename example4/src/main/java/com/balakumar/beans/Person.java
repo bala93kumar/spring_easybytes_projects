@@ -2,17 +2,20 @@ package com.balakumar.beans;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.stereotype.Component;
 
+@Component
 public class Person {
 
-    public Person() {
+    public Person( Vehicle veh) {
 
         System.out.println("generated from person pojo class");
     }
-    private String name;
+    private String name="bala";
 
-
-    private Vehicle vehicle;
+   // @Autowired  //(required = false)
+    private    Vehicle vehicle;
 
     public String getName() {
         return name;
@@ -26,6 +29,7 @@ public class Person {
         return vehicle;
     }
 
+    @Autowired
     public void setVehicle(Vehicle vehicle) {
         this.vehicle = vehicle;
     }
