@@ -19,7 +19,7 @@ public class ExampleMain3 {
 
         Supplier<Vehicle> volkssupplier = new Supplier<Vehicle>() {
             @Override
-            public Vehicle get() {
+              public Vehicle get() {
                 Vehicle volks = new Vehicle();
                 volks.setName("volkswagon");
                 return volks;
