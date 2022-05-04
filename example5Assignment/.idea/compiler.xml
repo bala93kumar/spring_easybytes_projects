@@ -9,6 +9,7 @@
         <module name="example7" />
         <module name="example6" />
         <module name="example5Assignment" />
+        <module name="example8EasySchoolApp" />
       </profile>
     </annotationProcessing>
   </component>
@@ -16,6 +17,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="example6" options="-parameters" />
       <module name="example7" options="-parameters" />
+      <module name="example8EasySchoolApp" options="-parameters" />
     </option>
   </component>
 </project>
